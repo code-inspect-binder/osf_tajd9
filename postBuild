@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/tajd9_src/Flip Study")' >> /home/jovyan/.Rprofile
